@@ -1,0 +1,11 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.hero-section {
+    background-image: url(imgs/hero-img.jpg);
+    min-height: 100vh;
+    background-size: cover;
+}
