@@ -1,6 +1,6 @@
 # odin-landingpage
 
-A landing page sample 
+A landing page for minimalist photographers.
 
 
 Images sources:
